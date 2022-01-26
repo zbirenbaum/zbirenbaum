@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbirenbaum&show_icons=true&theme=tokyonight&hide=stars) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbirenbaum&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
