@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbirenbaum&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbirenbaum&theme=tokyonight&langs_count=3&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbirenbaum&theme=tokyonight&langs_count=10&hide_title=true" />
 </a>
 <!--
 **zbirenbaum/zbirenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
