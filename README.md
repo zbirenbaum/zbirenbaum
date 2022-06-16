@@ -1,4 +1,4 @@
-<h1 align="center">What's a GUI?</h1>
+<!--<h1 align="center">GDB Professional, C Hobbyist</h1>--!>
 <!-- ### Hi there 👋 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zbirenbaum&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=false" />
